@@ -1,7 +1,1 @@
----
-layout: default
----
-
-# ᚛ᚒ᚜
-
-&copy; [Uir Consulting Ltd](mailto:grib@uir.org.uk) 
+<meta http-equiv="refresh" content="0; URL='public/index.html'" />
